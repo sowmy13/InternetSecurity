@@ -9,4 +9,5 @@ Launch DDoS attacks based on instructions received from a remote C&C.
 
 Mirai’s attack function enables it to launch HTTP floods and various network (OSI layer 3-4) DDoS attacks. 
 
+
 When attacking HTTP floods, Mirai bots hide behind the following default user-agents:
