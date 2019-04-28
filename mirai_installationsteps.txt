@@ -87,7 +87,9 @@ export PATH=$PATH:/etc/xcompile/powerpc-440fp/bin
 export PATH=$PATH:/etc/xcompile/sh4/bin
 export PATH=$PATH:/etc/xcompile/sparc/bin
 
-# Golang
+source ~/.bashrc
+
+#Install GoLang Drivers
 export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/Documents/go
 
