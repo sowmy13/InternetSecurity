@@ -31,10 +31,10 @@ Requirements for the project
  apt-get install mysql-server mysql-client -y
  
  [Step2]
- 
 Download the source code from the following link:
 
 git clone https://github.com/jgamblin/Mirai-Source-Code
+cd mirai-source-code
 
 
 [Step3] - Installing and compiling the cross-compilers
